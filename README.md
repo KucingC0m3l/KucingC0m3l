@@ -43,6 +43,7 @@ broniz4m@github:~/CVE-Disclosures/CVE-2026$ find . -maxdepth 1 -mindepth 1 -type
 
 CVE-2026-63081
 CVE-2026-63082
+CVE-2026-64829
 
 
 broniz4m@github:~/CVE-Disclosures/CVE-2026$ for file in CVE-*/README.md; do
@@ -55,6 +56,8 @@ Ticket Notes Field
 
 CVE-2026-63082 - Perfect Support Ticketing System 1.7 Broken Access
 Control via Agent Assignment
+
+CVE-2026-64829 - Question2Answer 1.8.8 Session Fixation via Forgot-Password Flow
 
 
 broniz4m@github:~/CVE-Disclosures/CVE-2026$ cd ~/workspace
