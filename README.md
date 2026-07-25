@@ -3,7 +3,7 @@
             .#@+                        Handle      : @BroNiz4m
            +@@+                         Mostly into : Security research
           +@@@                                        Systems & hardware
-         .@@@@                          CVEs        : 2 officially assigned
+         .@@@@                          CVEs        : 3 officially assigned
   ..     .@@@@+                         Right now   : Probably sleeping.
           #@@@@+                        
             +#@@@@@#++:::+##:     .
