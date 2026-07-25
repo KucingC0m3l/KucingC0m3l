@@ -60,27 +60,6 @@ Control via Agent Assignment
 CVE-2026-64829 - Question2Answer 1.8.8 Session Fixation via Forgot-Password Flow
 
 
-broniz4m@github:~/CVE-Disclosures/CVE-2026$ cd ~/workspace
+broniz4m@github:~/CVE-Disclosures/CVE-2026$ cd ~
 
-broniz4m@github:~/workspace$ ls -1d */
-
-automation/
-experiments/
-notes/
-portfolio/
-web-projects/
-write-ups/
-
-
-broniz4m@github:~/workspace$ cd notes
-
-broniz4m@github:~/workspace/notes$ cat process.txt
-
-Reproduce it.
-Figure out what actually caused it.
-Keep notes before I forget.
-Try not to turn every small idea into a three-week project.
-
-
-broniz4m@github:~/workspace/notes$ cd ~
 ```
