@@ -51,11 +51,9 @@ broniz4m@github:~/CVE-Disclosures/CVE-2026$ for file in CVE-*/README.md; do
 >   echo
 > done
 
-CVE-2026-63081 - Perfect Support Ticketing System 1.7 Stored XSS via
-Ticket Notes Field
+CVE-2026-63081 - Perfect Support Ticketing System 1.7 Stored XSS via Ticket Notes Field
 
-CVE-2026-63082 - Perfect Support Ticketing System 1.7 Broken Access
-Control via Agent Assignment
+CVE-2026-63082 - Perfect Support Ticketing System 1.7 Broken Access Control via Agent Assignment
 
 CVE-2026-64829 - Question2Answer 1.8.8 Session Fixation via Forgot-Password Flow
 
