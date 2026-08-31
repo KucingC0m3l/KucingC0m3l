@@ -36,28 +36,6 @@ broniz4m@github:~$ sed 's/^/# /' ~/profile/about.md
 # I test things, trace what happened, and write down the useful
 # parts before I forget them.
 
-
-broniz4m@github:~$ cd ~/CVE-Disclosures/CVE-2026
-
-broniz4m@github:~/CVE-Disclosures/CVE-2026$ find . -maxdepth 1 -mindepth 1 -type d -name 'CVE-*' -printf '%f\n' | sort
-
-CVE-2026-63081
-CVE-2026-63082
-CVE-2026-64829
-
-
-broniz4m@github:~/CVE-Disclosures/CVE-2026$ for file in CVE-*/README.md; do
->   sed -n '1s/^# //p' "$file" | fold -s -w 72
->   echo
-> done
-
-CVE-2026-63081 - Perfect Support Ticketing System 1.7 Stored XSS via Ticket Notes Field
-
-CVE-2026-63082 - Perfect Support Ticketing System 1.7 Broken Access Control via Agent Assignment
-
-CVE-2026-64829 - Question2Answer 1.8.8 Session Fixation via Forgot-Password Flow
-
-
-broniz4m@github:~/CVE-Disclosures/CVE-2026$ cd ~
+broniz4m@github:~$
 
 ```
